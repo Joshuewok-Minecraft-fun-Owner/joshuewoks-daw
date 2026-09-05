@@ -1,4 +1,4 @@
-import { $, state } from "./core.js";
+import { $, $$, state } from "./core.js";
 
 export function ensureAudio() {
   if (!state.audioContext)
