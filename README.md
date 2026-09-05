@@ -16,7 +16,10 @@ Then visit `http://localhost:4173`.
 
 - Transport controls with tempo, playhead, beat counter, and keyboard Space shortcut.
 - Track list with add, select, mute, solo, and record-arm states.
+- Track creation dialog with MIDI instrument tracks or microphone recording tracks.
+- MIDI instrument choices: Grand Piano, Bright Synth, Sub Bass, Warm Organ, and Digital Pluck.
+- Web Audio playback and note preview directly in the browser; microphone recordings can be played back with the transport.
 - Music Page view with a labeled piano roll showing every MIDI note.
-- Select, pencil, and erase tools with 1/16, 1/8, and 1/4 grid options.
+- Select, pencil, and erase tools with 1/16, 1/8, and 1/4 grid options. Select a note and use arrow keys to transpose or move it; `[` and `]` change its length.
 - Standard MIDI file import for note tracks and MIDI export from the current piano roll.
 - Local session naming, save feedback, zoom, inspector controls, mixer faders, and session notes.
